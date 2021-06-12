@@ -7,9 +7,9 @@ public class Taller_github {
 	public static void main(String[] args) {
 		
 		Estudiante estudiante = new Estudiante();
-		estudiante.setId(1);
-		estudiante.setNombre("Nicole Fonseca");
-		estudiante.setCarrera("Inform·tica");
+		estudiante.setId(002);
+		estudiante.setNombre("Nicole");
+		estudiante.setCarrera("Inform√°tica Empresarial");
 		
 		System.out.println(estudiante.toString());
 	}
